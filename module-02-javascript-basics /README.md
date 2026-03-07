@@ -584,7 +584,7 @@ Because string concatenation occurs.
 
 ---
 
-# Module 02 Exercises (Hard)
+# Module 02 Exercises
 
 ## Exercise 1 – Order Price Calculator
 
@@ -643,56 +643,6 @@ username → string
 age → number
 isAdmin → boolean
 user → object
-```
-
----
-
-## Exercise 4 – Currency Formatter
-
-Given a price:
-
-```
-price = 199.99
-```
-
-Output:
-
-```
-$199.99
-```
-
-Add tax and print:
-
-```
-Final Price: $227.98
-```
-
----
-
-## Exercise 5 – Backend Status Report
-
-Simulate server metrics.
-
-Variables:
-
-* cpuUsage
-* memoryUsage
-* activeConnections
-
-Print:
-
-```
-Server Health Report
-CPU: %
-Memory: %
-Connections:
-Status: Healthy / Overloaded
-```
-
-Rules:
-
-```
-CPU > 80 OR Memory > 80 → Overloaded
 ```
 
 ---
