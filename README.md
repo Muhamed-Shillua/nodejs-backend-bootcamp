@@ -7,7 +7,6 @@ Beginner → Advanced JavaScript & Node.js Course
 ![Modules](https://img.shields.io/badge/Modules-18-blue)
 ![Lessons](https://img.shields.io/badge/Lessons-84-green)
 ![Estimated Time](https://img.shields.io/badge/Duration-~30h-orange)
-![Practice Time](https://img.shields.io/badge/Practice-40--80h-red)
 
 </div>
 
