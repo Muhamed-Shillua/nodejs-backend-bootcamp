@@ -534,14 +534,6 @@ Write script that:
 
 # Next Module
 
-**Module 11 – JavaScript Internals**
+**Module 11 – package.json & NPM**
 
-Topics:
-
-* execution context
-* call stack
-* memory model
-* garbage collection
-* how the V8 engine runs JavaScript
-
-This is where developers move from **beginner → professional** understanding of JavaScript.
+Next, we focus on `package.json` & npm, the heart of Node.js project management.
