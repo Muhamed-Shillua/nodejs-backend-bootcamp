@@ -369,7 +369,7 @@ Sometimes a simple function is enough.
 
 ---
 
-# Module 13 Exercises
+# Module 14 Exercises
 
 ## Exercise 01 – Secure Counter
 
@@ -483,4 +483,4 @@ They are used for:
 
 Next module:
 
-**Module 14 – Regular Expressions (Regex)**
+**Module 15 – Regular Expressions (Regex)**

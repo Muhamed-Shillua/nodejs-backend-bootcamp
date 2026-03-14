@@ -1,4 +1,4 @@
-# Module 12 – Asynchronous JavaScript
+# Module 13 – Asynchronous JavaScript
 
 ## Module Introduction
 
@@ -340,9 +340,9 @@ Promise.all()
 
 ---
 
-# Module 12 Exercises
+# Module 13 Exercises
 
-## Exercise 1 – Promise Delay
+## Exercise 01 – Promise Delay
 
 Create function:
 
@@ -354,7 +354,7 @@ Returns promise that resolves after `ms`.
 
 ---
 
-## Exercise 2 – Async File Loader
+## Exercise 02 – Async File Loader
 
 Read 3 files using `fs.promises.readFile`.
 
@@ -362,7 +362,7 @@ Print file contents sequentially.
 
 ---
 
-## Exercise 3 – Parallel Requests
+## Exercise 03 – Parallel Requests
 
 Simulate 3 API calls using promises.
 
@@ -374,13 +374,13 @@ Promise.all()
 
 ---
 
-## Exercise 4 – Retry Mechanism
+## Exercise 04 – Retry Mechanism
 
 Create async function that retries a failed promise **3 times** before throwing error.
 
 ---
 
-## Exercise 5 – Async Queue Processor
+## Exercise 05 – Async Queue Processor
 
 Given array of async tasks, process them one by one and collect results.
 
@@ -397,7 +397,7 @@ Given array of async tasks, process them one by one and collect results.
 
 # Next Module
 
-**Module 13 – Closures**
+**Module 14 – Closures**
 
 Closures are heavily used in:
 

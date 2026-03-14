@@ -1,4 +1,4 @@
-# Module 11 – JavaScript Internals
+# Module 12 – JavaScript Internals
 
 ## Module Introduction
 
@@ -350,7 +350,7 @@ Leads to unexpected execution order.
 
 ---
 
-# Module 11 Exercises
+# Module 12 Exercises
 
 ### Exercise 01 – Call Stack Simulation
 
@@ -396,7 +396,7 @@ Read three files using `fs.readFile` and analyze execution order.
 
 The next module builds directly on these internals.
 
-## Module 12 – Asynchronous JavaScript
+## Module 13 – Asynchronous JavaScript
 
 You will learn:
 
